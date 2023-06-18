@@ -1,0 +1,1 @@
+gcc postgres.c -o postgres -lpq
